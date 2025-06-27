@@ -20,14 +20,14 @@ function onPageLoad() {
                         hint: "Nazywam się Marcin"
                     },
         {
-                        scrambled: ["35", "J'", "ai", "ans"],
-                        correct: ["J'", "ai", "35", "ans"],
-                        hint: "Mam 35 lat"
+                        scrambled: ["53", "J'", "ai", "ans"],
+                        correct: ["J'", "ai", "53", "ans"],
+                        hint: "Mam 53 lata"
                     },
         {
-                        scrambled: ["Cracovie", "J'", "à", "habite"],
-                        correct: ["J'", "habite", "à", "Cracovie"],
-                        hint: "Mieszkam w Krakowie"
+                        scrambled: ["pas", "Cracovie", "n'", "Je", "à", "habite"],
+                        correct: ["Je", "n'", "habite", "pas", "à", "Cracovie"],
+                        hint: "Nie mieszkam w Krakowie"
                     },
         {
                         scrambled: ["Je", "anglais", "parle"],
@@ -53,6 +53,16 @@ function onPageLoad() {
                         scrambled: ["deux", "J'", "enfants", "ai"],
                         correct: ["J'", "ai", "deux", "enfants"],
                         hint: "Mam dwoje dzieci"
+                    },
+        {
+                        scrambled: ["suis", "médecin", "Je"],
+                        correct: ["Je", "suis", "médecin"],
+                        hint: "Jestem lekarzem"
+                    },
+        {
+                        scrambled: ["deux", "J'", "chats", "ai"],
+                        correct: ["J'", "ai", "deux", "chats"],
+                        hint: "Mam dwa koty"
                     }
     ];;
     
